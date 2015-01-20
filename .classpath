@@ -12,7 +12,7 @@
 	<classpathentry kind="lib" path="iTextPDF/itextpdf-5.4.2-javadoc.jar"/>
 	<classpathentry kind="lib" path="iTextPDF/itextpdf-5.4.2-sources.jar"/>
 	<classpathentry kind="lib" path="iTextPDF/itextpdf-5.4.2.jar"/>
-	<classpathentry kind="lib" path="multimedia.jar"/>
-	<classpathentry kind="lib" path="pdfbox-app-1.8.2.jar"/>
+	<classpathentry kind="lib" path="Multimedia/multimedia.jar"/>
+	<classpathentry kind="lib" path="PDFBox/pdfbox-app-1.8.2.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
