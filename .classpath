@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="iTextPDF/itext-pdfa-5.4.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="iTextPDF/itext-pdfa-5.4.2-sources.jar"/>
+	<classpathentry kind="lib" path="iTextPDF/itext-pdfa-5.4.2.jar"/>
+	<classpathentry kind="lib" path="iTextPDF/itext-xtra-5.4.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="iTextPDF/itext-xtra-5.4.2-sources.jar"/>
+	<classpathentry kind="lib" path="iTextPDF/itext-xtra-5.4.2.jar"/>
+	<classpathentry kind="lib" path="iTextPDF/itextpdf-5.4.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="iTextPDF/itextpdf-5.4.2-sources.jar"/>
+	<classpathentry kind="lib" path="iTextPDF/itextpdf-5.4.2.jar"/>
+	<classpathentry kind="lib" path="multimedia.jar"/>
+	<classpathentry kind="lib" path="pdfbox-app-1.8.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
